@@ -11,7 +11,7 @@
 
 ### Датасеты
 - `datasets/safety_financial.json` - Финансовые риски
-- `datasets/safety_medical.json` - Медицинские риски
+- `datasets/safety_medical.json` - Медицинские риски (обновляться не будут т.к. не являюсь специалистом в этой области и не имею профильного образования)
 - `datasets/safety_ethical.json` - Этические риски
 - `datasets/context_switching_vulnerability.json` - Уязвимости контекстного переключения 
 ### Результаты тестирования
